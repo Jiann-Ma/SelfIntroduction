@@ -5,7 +5,7 @@
   </head>
   <body>
     <h3 style = "font-weight:bold; font-size:30px; blue">自我介紹</h3>
-    <div style = "padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:15px; color:blue">
+    <div style = "padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:15px">
     大家好，我是馬健騰，目前任職於玉山銀行資安處，先前曾在勤業眾信會計師事務所擔任資訊安全顧問。我大學畢業於國立清華大學人文學院學士班，主修人類學，副修哲學。由於自己無法承受人文學科漫長的研究過程，因此我試著跨入商管領域，選擇於退伍後前往英國里茲大學就讀國際創新管理碩士班。<br/>自己平常的興趣是看Netflix與研究新興的資安技術，最近一次是研究如何使用Python的GraphViz涵式庫，視覺化惡意軟體間的相互關係。雖然有點難，但我樂在其中。此外我也利用假日參加台灣大學資訊系統訓練班，希望除了加強自己的實力外，也能找到一起研究學習的夥伴！: )<br/>
       附上我最喜歡的動物-海豹~~<img src = "https://www.dfo-mpo.gc.ca/species-especes/images/profiles-profils/~mammals/harp-seal/harp-seal-pup.jpg"></img>
     <ul>
@@ -15,7 +15,7 @@
     </ul>
     </div>
     <h3 style = "font-weight:bold; font-size:30px; blue">為什麼想成為工程師？</h3>
-    <div style = "padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:15px; color:blue">
+    <div style = "padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:15px">
       因為我想成為一個創造者！我覺得成為工程師可以為這個世界帶來改變，讓我們能更隨心所欲的生活。我在銀行擔任資安人員，主要會接觸到的是比較偏伺服器管理、防火牆Log分析與網路監控。雖然有人說這某種程度也算是「工程師」呀，但我更想成為一個資訊安全的開發工程師，研究如何寫出更安全的網站與App，或是逆向工程，挖掘已開發產品的漏洞。所以，我認為我是想成為全端工程師。自己在過去就有斷斷續續自學一些程式語言，但我常常會遇到撞牆的時候，導致我覺得學習效率不好。當聽到彭彭老師要舉辦軟體工程師扶持計畫時，我就覺得很興奮，因為這正是可以讓我系統性學習程式的機會，所以我想報名參加這個計畫。<br/>
     </div>
     <h3 style = "font-weight:bold; font-size:30px; blue">為了成為工程師，曾經做過什麼努力？</h3>

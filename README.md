@@ -1,7 +1,7 @@
 # SelfIntroduction
 <html>
   <head>
-    <title>Ma Jiann Terng</title>
+    <h1 style = "font-weight:bold">Ma Jiann Terng</h1>
   </head>
   <body>
     <h3 style = "font-weight:bold; font-size:30px; blue">自我介紹</h3>
@@ -12,6 +12,7 @@
       <li>我的信箱：jiannterngma@gapp.nthu.edu.tw</li>
       <li><a href="https://www.facebook.com/profile.php?id=100002593154051">我的Facebook</a></li>
       <li><a href="https://www.linkedin.com/in/jiann-terng-ma-817ab8151/">我的Linkedln(有點久沒更新了XD)</a></li>
+    </ul>
     </div>
     <h3 style = "font-weight:bold; font-size:30px; blue">為什麼想成為工程師？</h3>
     <div style = "padding:10px; border:2px dash blue; margin-top:10px; margin-bottom:10px; font-size:15px">

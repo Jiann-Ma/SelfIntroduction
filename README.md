@@ -1,6 +1,5 @@
 <html>
   <head>
-    <meta charset="utf-8"></meta>
   <h1 style = "font-weight:bold"><u>Ma Jiann Terng</u></h1>
   </head>
   <body>

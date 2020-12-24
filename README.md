@@ -1,6 +1,6 @@
-# Self Introduction
 <html>
   <head>
+    <meta charset="utf-8"></meta>
     <h1 style = "font-weight:bold">Ma Jiann Terng</h1>
   </head>
   <body>

@@ -1,5 +1,7 @@
 <html>
   <head>
+    <meta charset="utf-8"></meta>
+    <title>自我介紹</title>
     <style type="text/css">
     .bigTitle{font-weight:bold}
     .title{font-weight:bold; font-size:30px; blue}

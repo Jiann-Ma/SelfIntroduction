@@ -2,8 +2,8 @@
   <head>
   <h1 style = "font-weight:bold"><u>Ma Jiann Terng</u></h1>
     <style type="text/css">
-      .title{font-weight:bold; font-size:30px; blue}
-      .content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344}
+    .title{font-weight:bold; font-size:30px; blue}
+    .content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344}
   </head>
   <body>
   <h3 class="title"><i>自我介紹</i></h3>

@@ -7,6 +7,7 @@
     .title{font-weight:bold; font-size:30px; blue}
     .content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344}
     .box{position:absolute; right:0px; top:100px; background-color:green}
+    .keyword{color:red}
     </style>
   <h1 class="bigTitle"><u>Ma Jiann Terng</u></h1>
   </head>
@@ -44,7 +45,7 @@
     </div>
   <h3 class="title"><i>想要對我們說的事情？</i></h3>
     <div class="content">
-      希望可以透過這個計畫，認識更多志同道合的夥伴，在受挫的時候彼此給予鼓勵與支持，在成功的時候分享喜悅，所以我相信一個團隊會比自己一個人走得更遠。高空彈跳，最恐怖的時候總是走出跳台的時候；海中浮潛，最難的總是一開始戴上氧氣罩用嘴巴呼吸的時候，但如果有朋友，儘管他是惡作劇地背後推你一把，或是熱心地分享他的學習心得，一切的一切就不會看起來那麼地困難了。來開始以每小時10<span style="position:relative; top:-5px">2</span>公里的速度衝刺吧~!
+      希望可以透過這個計畫，認識更多志同道合的夥伴，在受挫的時候彼此給予鼓勵與支持，在成功的時候分享喜悅，所以我相信一個團隊會比自己一個人走得更遠。高空彈跳，最恐怖的時候總是走出跳台的時候；海中浮潛，最難的總是一開始戴上氧氣罩用嘴巴呼吸的時候，但如果有朋友，儘管他是惡作劇地背後推你一把，或是熱心地分享他的學習心得，一切的一切就不會看起來那麼地困難了。來開始以<span class="keyword">每小時10<span style="position:relative; top:-5px">2</span>公里</span>的速度衝刺吧~!
     </div>
   </body>
   

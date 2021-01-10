@@ -6,7 +6,7 @@
     .bigTitle{font-weight:bold}
     .title{font-weight:bold; font-size:30px; blue}
     .content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344}
-    .box{width:400px; height:500px background-color:green}
+    .box{position:absolute; left:200px; top:50px; width:400px; height:500px background-color:green}
     </style>
   <h1 class="bigTitle"><u>Ma Jiann Terng</u></h1>
   </head>

@@ -6,7 +6,7 @@
     .bigTitle{font-weight:bold}
     .title{font-weight:bold; font-size:30px; blue}
     .content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344}
-    .box{position:absolute; left:200px; top:50px; width:400px; height:500px background-color:green}
+    .box{position:absolute; left:500px; top:600px; width:400px; height:500px background-color:green}
     </style>
   <h1 class="bigTitle"><u>Ma Jiann Terng</u></h1>
   </head>
@@ -37,7 +37,7 @@
     <div class="content">
       因為我現在有正職，相較於其他同學而言，我學習的時間可能不那麼充裕。在平常工作日，我會安排在洗完澡，睡覺前的時間，做最少2小時的練習，如果有準時下班，我的學習時間可以拉長；假日的話，我會依循我現在的步調，分早練習、午練習與晚練習，每個練習時段至少3小時。如此算來，這樣我一週的學習時間大概最少28小時，這與老師估的最少40小時，還有一段距離。但我想我在工作時，時常會接觸伺服器與資料庫管理的業務，我想這也算是某種程度上的學習，希望如此可以補上我缺少的練習時數。我知道若參加老師的訓練營，訓練期間我會很辛苦，要同時應付工作與課業，但我仍想把握這個機會。
     </div>
-    <div class="box">123</div>
+    <div class="box"></div>
   <h3 class="title"><i>如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？</i></h3>
     <div class="content">
       最讓我憂心的問題就是時間不夠。我自己盤算了一下，若順利的話，我下班回到家的時間約為七點，吃個晚餐後時間來到八點，吃完晚餐我會小睡一下並運動直到十點半左右。如果我規定自己平日每天要練習至少2個小時的話，那意味著如果一切完美，我沒有偷懶貪睡，沒有在公司加班，沒有其他活動的話，我最早也就是12點半睡覺。但萬事不可能完美，就如同伺服器附載一樣，不可能將容量百分之百用的一乾二淨，一定要留些buffer，以防意外的發生。我想我會以犧牲飯後的小睡片刻，換取額外的練習時間，畢竟我還有一輩子可以睡。另外，還有種可能是將學習與工作業務結合。我的部門有一個名為資安大數據的計畫，架設網站將網路監控的數據視覺化，讓機房人員能在有意外發生的徵兆前最好對應的處理。我會努力爭取加入這個計畫團隊的機會，如此邊能「從做中學」，相對我就可以有比較多的時間投入這個計畫。

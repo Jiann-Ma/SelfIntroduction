@@ -20,7 +20,10 @@
     }
     #btn:hover{
       background-color:gray;
-    } 
+    }
+    input:focus{
+      border:2px solid #ff0000;
+    }
     </style>
   <h1 class="bigTitle"><u>Ma Jiann Terng</u></h1>
   </head>

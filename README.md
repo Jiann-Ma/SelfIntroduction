@@ -14,6 +14,10 @@
      div.content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344}
     .box{position:absolute; right:0px; top:100px; background-color:green}
     .keyword{color:red}
+    #btn{
+      border:1px solid #888888;
+      background-color:#ffffff;padding:5px;
+    }
     </style>
   <h1 class="bigTitle"><u>Ma Jiann Terng</u></h1>
   </head>

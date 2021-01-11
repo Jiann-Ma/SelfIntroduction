@@ -10,7 +10,7 @@
       text-decoration:underline
     }
     .bigTitle{font-weight:bold}
-    .title{font-weight:bold; font-size:30px; blue}
+    .title{font-weight:bold; font-size:30px; blue; text-decoration:underline}
      div.content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344}
     .box{position:absolute; right:0px; top:100px; background-color:green}
     .keyword{color:red}

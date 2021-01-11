@@ -9,9 +9,10 @@
     h3{
       text-decoration:underline;
     }
-    .bigTitle{font-weight:bold}
+    .bigTitle{font-weight:bold;font-size:50px;background-color: #003344; color:wheat;text-align: center;padding: 5px;}
     .title{font-weight:bold; font-size:30px; blue; text-decoration:underline;}
      div.content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344;}
+    .content_table{margin-left: auto;margin-right: auto;border:1.25px solid #660546;}
     .box{position:absolute; right:0px; top:100px; background-color:green;}
     .keyword{color:red;}
     #btn{
@@ -49,7 +50,7 @@
     </style>
   <h1 class="bigTitle"><u>Ma Jiann Terng</u></h1>
   </head>
-  <body>
+  <body style="margin: 1px;background-color: #eeeeee;">
   <div class="box">絕對定位的練習</div>
   <h3 class="title"><i>自我介紹</i></h3>
     <div class="content">
@@ -95,8 +96,8 @@
   <div class="content">
     填寫訊息<input type="text" /> <button id="btn">送出</button>
   </div>
-  <div class="content">
-    <table>
+  <div class="content_table">
+    <table align="center">
       <tr>
         <td>我喜歡吃的食物</td>
         <td>葷食</td>

@@ -30,6 +30,22 @@
     .usuallyUse a{
       color:#2bff00;
     }
+    table{
+      width:400px;
+      border-collapse:collapse;
+    }
+    td{
+      border-bottom:2.5px solid #f1bb07;padding:15px;
+    }
+    tr:nth-child(1){
+      background-color: #7788aa;color:#ffffff;
+    }
+    tr:nth-child(even){
+      background-color: #e8e8e8;
+    }
+    tr:nth-child(3){
+      background-color: #635353;
+    }
     </style>
   <h1 class="bigTitle"><u>Ma Jiann Terng</u></h1>
   </head>
@@ -78,6 +94,30 @@
   <h3 class="title"><i>有甚麼想要跟我說的嗎?</i></h3>
   <div class="content">
     填寫訊息<input type="text" /> <button id="btn">送出</button>
+  </div>
+  <div class="content">
+    <table>
+      <tr>
+        <td>我喜歡吃的食物</td>
+        <td>葷食</td>
+        <td>素食</td>
+      </tr>
+      <tr>
+        <td>東方料理</td>
+        <td>麻油雞</td>
+        <td>炒山蘇</td>
+      </tr>
+      <tr>
+        <td>西方料理</td>
+        <td>煎牛排</td>
+        <td>可麗餅</td>
+      </tr>
+      <tr>
+        <td>奇怪料理</td>
+        <td>炸竹蟲</td>
+        <td>炸冰淇淋</td>
+      </tr>
+    </table>
   </div>
   </body>
 <html>

@@ -4,22 +4,22 @@
     <title>自我介紹</title>
     <style type="text/css">
     body{
-      font-family:"微軟正黑體"
+      font-family:"微軟正黑體";
       }
     h3{
-      text-decoration:underline
+      text-decoration:underline;
     }
     .bigTitle{font-weight:bold}
-    .title{font-weight:bold; font-size:30px; blue; text-decoration:underline}
-     div.content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344}
-    .box{position:absolute; right:0px; top:100px; background-color:green}
-    .keyword{color:red}
+    .title{font-weight:bold; font-size:30px; blue; text-decoration:underline;}
+     div.content{padding:10px; border:2px dashed blue; margin-top:10px; margin-bottom:10px; font-size:20px; color:#FFFFFF; background-color:#003344;}
+    .box{position:absolute; right:0px; top:100px; background-color:green;}
+    .keyword{color:red;}
     #btn{
       border:1px solid #888888;
       background-color:#ffffff;padding:5px;
     }
     #btn:hover{
-      bacground-color:gray
+      bacground-color:gray;
     } 
     </style>
   <h1 class="bigTitle"><u>Ma Jiann Terng</u></h1>
